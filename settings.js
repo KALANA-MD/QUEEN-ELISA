@@ -24,19 +24,19 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: process.env.MONGODB_URL|| '',
-  PREFIX: '.$&',
+  PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NAME: 'ᴋᴀʟᴀɴᴀ ᴏꜰᴄ',
+  OWNER_NUMBER: '94702932200',
+  SUDO: '94702932200',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
-  STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  STICKER_PACK: 'QUEEN ELISA',
+  CAPTION: '> 🐼ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ ᴋᴀʟᴀɴᴀ ᴏꜰᴄ🐼',
+  STICKER_AUTHOR: 'ＫＡＬＡＮＡ　ＯＦＣ',
+  STICKER_PACK: '​🇰​​🇦​​🇱​​🇦​​🇳​​🇦​ ​🇯​​🇪​​🇪​​🇼​​🇦​​🇳​​🇹​​🇭​​🇪​',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90, //size in MB
   OWNER_R_EMOJI: '💻',
@@ -47,10 +47,10 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
-  BOT_OFFLINE: false,// Bot online status
-  READ_MESSAGE: false,
+  BOT_OFFLINE: true,// Bot online status
+  READ_MESSAGE: true,
   ANTI_MSG_SPAM: false,
-  ANTI_BAD_WORD: false,
+  ANTI_BAD_WORD: true,
   ANTI_VIEW_ONES: false, // This not working now !
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
